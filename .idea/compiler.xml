@@ -10,6 +10,7 @@
         <module name="apigw" />
         <module name="core" />
         <module name="eureka-server" />
+        <module name="contact-us" />
         <module name="faq" />
       </profile>
     </annotationProcessing>

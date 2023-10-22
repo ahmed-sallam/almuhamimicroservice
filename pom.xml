@@ -16,6 +16,7 @@
     <module>eureka-server</module>
     <module>core</module>
     <module>faq</module>
+    <module>contact-us</module>
   </modules>
 
   <properties>

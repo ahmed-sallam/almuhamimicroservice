@@ -16,6 +16,10 @@ spring:
           uri: lb://FAQ
           predicates:
             - Path=/api/v1/faq/**
+        - id: contact-us
+          uri: lb://CONTACT-US
+          predicates:
+            - Path=/api/v1/contact-us/**
 eureka:
   client:
     service-url:
